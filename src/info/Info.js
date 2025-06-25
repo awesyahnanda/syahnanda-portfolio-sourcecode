@@ -25,7 +25,7 @@ export const info = {
     firstName: "Alif",
     lastName: "Syahnanda",
     initials: "aws", // the example uses first and last, but feel free to use three or more if you like.
-    position: "an Aspiring Data Enthusiast",
+    position: "an Insights Brewer",
     selfPortrait: "/assets/img/self.png", // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[1],
@@ -40,20 +40,20 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Aspiring Analyst - Data Scientist"
+            text: "Product Growth Analyst @ Baskit"
         },
         {
             emoji: "📧",
-            text: "alifsyahnanda@outlook.com"
+            text: "awsyahnanda@gmail.com"
         },
         {
             emoji: "📝",
-            text: "Data Enthusiast with Engineering Background"
+            text: "Brewing Insights into Impact 🍶"
         }
     ],
     socials: [
                {
-            link: "https://instagram.com/syahnandaa",
+            link: "https://instagram.com/awsyahnandaa",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
@@ -68,7 +68,7 @@ export const info = {
             label: 'linkedin'
         },
          {
-            link: "mailto:alifsyahnanda@outlook.com",
+            link: "mailto:awsyahnanda@gmail.com",
             icon: 'fa fa-envelope',
             label: 'email'
         },
@@ -81,11 +81,11 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: `Hello there! I'm Syah. an aspiring Data Analyst and Scientist from Jakarta,Indonesia. Specializing in Python, SQL, Tableau and other analytical tools. I was working professionally in sustainability and engineering field for about almost 3 years, and turn out realigning my career path to actively mastering data science and analytics at Purwadhika Digital Technology School. I couldn't be happier to drive transformational solutions by data-driven across various industries. <br /><br /> I'm currently developing on learning data analytics, science and Machine Learning Models. Once I feel I've become fairly proficient in my preferred stack, I plan to expand my horizons to NLP, Gerative-AI, and eventually I'll probably end up giving into the Data & Product Craze. I enjoy coffee talks, and I believe data will inevitably bring us all in perfection.`,
+    bio: `Hello there! Turning data into direction then brewed with clarity, purpose, and a shot of heart. I analyze behavior, build stories from numbers, and help teams make smarter, human-centered decisions. Like a great cup of coffee, my work is intentional, crafted, and meant to be shared.`,
     skills:
     {
-        proficientWith: ['Python', 'Tableau', 'SQL', 'PowerBI', 'Scikit-Learn', 'G-Suites', 'Google Analytics','Microsoft Office', 'Looker Studio','GitHub','Visio','VS Code'],
-        exposedTo: ['R', 'reactjs', 'NLP', 'Product Management','Jira','Minitab','Draw.io']
+        proficientWith: ['Metabase','Tableau', 'SQL', 'Python', 'PowerBI', 'Scikit-Learn', 'Google Suites', 'Google Analytics','Microsoft Office', 'Looker Studio','GitHub','Visio','VS Code'],
+        exposedTo: ['ETL','R', 'reactjs', 'NLP', 'Product Management','Jira','Minitab','Draw.io', 'Growth Strategy']
     }
     ,
     hobbies: [
