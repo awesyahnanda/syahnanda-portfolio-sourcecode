@@ -40,7 +40,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Product Growth Analyst @ Baskit"
+            text: "Product Growth Analyst @ SaaS Company"
         },
         {
             emoji: "📧",
@@ -81,7 +81,7 @@ export const info = {
         // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: `Hello there! Turning data into direction then brewed with clarity, purpose, and a shot of heart. I analyze behavior, build stories from numbers, and help teams make smarter, human-centered decisions. Like a great cup of coffee, my work is intentional, crafted, and meant to be shared.`,
+    bio: `Hello there! I really love Turning data into direction then brewed with clarity, purpose, and a shot of heart. I analyze behavior, build stories from numbers, and help teams make smarter, human-centered decisions. Like a great cup of coffee, my work is intentional, crafted, and meant to be shared.`,
     skills:
     {
         proficientWith: ['Metabase','Tableau', 'SQL', 'Python', 'PowerBI', 'Scikit-Learn', 'Google Suites', 'Google Analytics','Microsoft Office', 'Looker Studio','GitHub','Visio','VS Code'],
