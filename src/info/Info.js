@@ -84,29 +84,29 @@ export const info = {
     bio: `Hello there! I really love Turning data into direction then brewed with clarity, purpose, and a shot of heart. I analyze behavior, build stories from numbers, and help teams make smarter, human-centered decisions. Like a great cup of coffee, my work is intentional, crafted, and meant to be shared.`,
     skills:
     {
-        proficientWith: ['Metabase','Tableau', 'SQL', 'Python', 'PowerBI', 'Scikit-Learn', 'Google Suites', 'Google Analytics','Microsoft Office', 'Looker Studio','GitHub','Visio','VS Code'],
-        exposedTo: ['ETL','R', 'reactjs', 'NLP', 'Product Management','Jira','Minitab','Draw.io', 'Growth Strategy']
+        proficientWith: ['Metabase','Tableau', 'SQL', 'Python', 'PowerBI', 'Scikit-Learn', 'PostgreSQL','Google Suites', 'Google Analytics','Microsoft Office', 'Looker Studio','GitHub','Visio','VS Code'],
+        exposedTo: ['ETL','R', 'reactjs', 'NLP', 'Product Management','Jira','Minitab','Draw.io', 'Growth Strategy', 'A/B Testing', 'Miro', 'Canva', 'Google Cloud Platform', 'Google BigQuery', 'Google Data Studio', 'Gen-AI']
     }
     ,
     hobbies: [
         {
-            label: 'brewing',
+            label: 'Brewing',
             emoji: '☕'
         },
         {
-            label: 'duathlon',
+            label: 'Cycling & Running',
             emoji: '🚴‍♂️🏃‍♂️'
         },
         {
-            label: 'photography-videography',
+            label: 'Photography-Videography',
             emoji: '📸🎬'
         },
         {
-            label: 'movies',
+            label: 'Movies',
             emoji: '🎥'
         },
         {
-            label: 'reading',
+            label: 'Reading',
             emoji: '📖'
         }
         // Same as above, change the emojis to match / relate to your hobbies or interests.
